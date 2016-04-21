@@ -1,8 +1,8 @@
-# Distribution of Swedish film <i>Madame de Thebes</i>, 1915-1918
+# Distribution of Swedish film <i>Madame de Thebes</i>, 1915-1918, mapped over time
 
 **Work in Progress**
 
-<a href="http://bartlettr.github.io/MadameDeThebes/">View map</a>.
+<a href="http://bartlettr.github.io/MadameDeThebes_Time/">View map</a>.
 
 Based on research completed by <a href="http://carleton.ca/filmstudies/people/laura-horak/">Laura Horak, Assistant Professor, Film Studies</a> at Carleton University in Ottawa, Canada.
 
